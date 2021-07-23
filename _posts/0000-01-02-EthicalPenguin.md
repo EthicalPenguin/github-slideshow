@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Digital life needs to be reevaluated. 
 Use the left arrow to go back!
